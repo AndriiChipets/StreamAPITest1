@@ -15,12 +15,14 @@ SVF - racer abbreviation
 2018-05-24 - date
 12:02:58.917 - time
 
-![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/fb062a79-e8da-4719-9199-dc2b8407c585)
-Result:
-![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/fec6a4af-d8e0-460e-9228-9b392e21c30d)
-![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/d202b80c-a2e1-4d13-8d5b-f4c7a9c3a827)
-![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/0e7be9f2-c9b1-4764-b634-f56b210bff95)
-![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/1b7f619e-f390-4c90-8efd-59e4c30a2a31)
-![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/8934b158-5572-47ae-944f-863a6d5eae3b)
-![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/93bc10eb-fd01-44ff-af87-8fb7646a0b50)
-![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/f216fee9-82b2-44e3-b9e7-ca8ce3b19ae7)
+![image](https://github.com/AndriiChipets/formula-one/assets/137887124/cd715920-8da7-4407-a099-0c036bea558c)
+![image](https://github.com/AndriiChipets/formula-one/assets/137887124/cc767a36-714f-40c1-8053-a6f46c26b029)
+![image](https://github.com/AndriiChipets/formula-one/assets/137887124/14a88625-76b2-4914-baa3-cc376473d316)
+![image](https://github.com/AndriiChipets/formula-one/assets/137887124/b92fb155-205c-48f2-9013-f33c19f7e400)
+![image](https://github.com/AndriiChipets/formula-one/assets/137887124/6d3c8477-33c8-4a3c-b212-1ad3e42fc279)
+![image](https://github.com/AndriiChipets/formula-one/assets/137887124/4566506e-22e4-4951-a242-dfb44f183c94)
+![image](https://github.com/AndriiChipets/formula-one/assets/137887124/47acd47c-e294-47f3-93fa-100731c35a67)
+
+
+
+
